@@ -1,0 +1,13 @@
+---
+layout: post
+title: 'Welcome'
+date: '2021-04-01 15:04'
+excerpt: >-
+  Here is the first block of this blog by a bloke who is interested in building blocks of a blockchain and the technology therein.
+comments: true
+tags: [general]
+---
+
+Here is the first block of this blog by a bloke who is interested in building blocks of a blockchain and the technology therein. I am a student at IITR majoring in mathematics. Here I will try to write about the things that I learn, books that I read, lessons that I learn yada yada.  I am starting this blog as a personal diary to document my metamorphosis from a school kid to a better student, programmer, hacker and of course a cat memer.
+
+My language of intrest is C++ and python but here I will try to convey my ideas in English, French and sometimes Russian (Of course I speak all these languages).

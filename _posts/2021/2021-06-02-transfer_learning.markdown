@@ -3,9 +3,9 @@ layout: post
 title: 'Introduction to transfer learning'
 date: '2021-06-01 15:04'
 excerpt: >-
-  An introduction to transfer learning
+  Can deep neural networks acquire knowledge from a fellow neural network ? Let's find out.
 comments: true
-tags: [may_2021, machine_learning]
+tags: [june_2021, deep_learning, transfer_learning]
 ---
 
 If we think intuitively, it is not realistic and practical for us to learn everything from scratch. We always try to solve a new task based on the knowledge obtained from past experiences. For example, we may find that learning to recognize apples might help to identify pears or learning a programming language, say C++, can facilitate learning some other language, say Python, as the basic programming fundamentals remain the same.

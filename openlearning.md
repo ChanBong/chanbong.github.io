@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Open Learning"
-date: "2016-04-01 14:16"
+date: "2016-04-01 15:16"
 excerpt: "An overview of freely available learning content on various topics (though mainly machine learning)."
 ---
 

@@ -103,14 +103,3 @@ Finally, there is this human factor to this. There is ingratitude in warning peo
 The degree of resistance to randomness in one's life is an abstract idea, part of its logic counterintuitive, and, to confuse matters, its realizations non-observable. Clearly, this way of judging matters is probabilistic in nature; it relies on the notion of what could have probably happened and requires a certain mental attitude with respect to one's observations. Overall, history is potent enough to deliver on time in the medium to long run.
 
 
-
-
-
-### Resources
-
-1. [A Survey on Transfer Learning](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
-2. [Transfer Learning - Machine Learning's Next Frontier](https://ruder.io/transfer-learning/)
-3. [How transferable are features in deep neural networks?](https://arxiv.org/pdf/1411.1792.pdf)
-4. [CNN for Visual Recognition](https://cs231n.github.io/transfer-learning/)
-5. [Survey of Deep Transfer Learning](https://arxiv.org/pdf/1808.01974.pdf)
-6. [A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a)

@@ -8,6 +8,16 @@ comments: true
 tags: [june_2021, deep_learning, transfer_learning]
 ---
 
+
+> In this post, we are gonna briefly go over the field of Reinforcement Learning (RL), from fundamental concepts to classic algorithms. Hopefully, this review is helpful enough so that newbies would not get lost in specialized terms and jargons while starting. [WARNING] This is a long read.
+
+
+<!--more-->
+
+{: class="table-of-content"}
+* TOC
+{:toc}
+
 If we think intuitively, it is not realistic and practical for us to learn everything from scratch. We always try to solve a new task based on the knowledge obtained from past experiences. For example, we may find that learning to recognize apples might help to identify pears, or learning a programming language, say C++, can facilitate learning some other language, say Python, as the basic programming fundamentals remain the same.
 
 Transfer learning is an area of deep learning inspired by the same idea. We try to use the "knowledge" acquired in one task to do some other related task. This is mainly motivated by the lack of labeled data across domains. A simple example would be the ImageNet dataset, which has millions of images of different categories. However, getting such a dataset for every domain is challenging. Besides, most deep learning models are very specialized to a particular domain or even a specific task. They have high accuracy and beat all benchmarks, but only on particular datasets, and end up suffering a significant loss in performance when used in a new task that might still be similar to the one it was trained on.

@@ -10,3 +10,8 @@ More often than not, I spend days filtering out useful/good content from the nea
 Inspired by a [stranger](https://kratzert.github.io/openlearning) I will try to document whatever I find useful.
 I will also try to add specific links that I have already studied in the past but may help any interested reader (or myself as lookup).
 
+## Academics
+
+### Spring 2022
+----
+- [Graph Theory](/academics/graph_theory_man_204.md)

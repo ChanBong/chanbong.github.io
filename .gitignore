@@ -3,3 +3,4 @@ _site/
 .sass-cache/
 TODO_LIST.txt
 .obsidian/
+.jekyll-metadata

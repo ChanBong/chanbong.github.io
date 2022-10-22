@@ -26,8 +26,17 @@ tags: [october_2022, hacking]
 
 
 **11:42:33** : Apparantely if you give ffmpeg a video source it can download only the specified portion
-- [here](https://unix.stackexchange.com/questions/230481/how-to-download-portion-of-video-with-youtube-dl-command)
 
+```bash
+    org_url="$(yt-dlp -g "${source_url}")"
+    vid_aud_url=(${org_url//'\n'/ }) # similar to python split finctionality to separate on delimeter \n
+    video_url="${vid_aud_url[0]}"
+    audio_url="${vid_aud_url[1]}"
+
+    ffmpeg -ss "${start_point}" -i "${video_url}" -ss "${start_point}" -i "${audio_url}" -map 0:v -map 1:a -t "${duration}" -c:v libx264 -c:a aac "${temp_dir}/vod.mp4"
+```
+
+- [source](https://unix.stackexchange.com/questions/230481/how-to-download-portion-of-video-with-youtube-dl-command)
 
 **11:52:58** : Need some bash scripting to 
 - Get both audio and video stream seprately from yt-dlp

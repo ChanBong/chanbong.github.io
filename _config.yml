@@ -24,7 +24,7 @@ description: Explore. Learn. Blog. Repeat!
 # List of links in the navigation bar
 navbar-links:
   Blog: ""
-  About Me: "aboutme"
+  About: "aboutme"
   Projects: "projects"
   Open Learning: "openlearning"
 nav-search: search

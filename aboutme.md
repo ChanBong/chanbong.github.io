@@ -15,6 +15,7 @@ I enjoy programming and am interested in Deep Learning, Computer security and AI
 ## news
 
 - **2022**
+    - _November_ : Won **Gold Medal** in [CSAW](https://www.csaw.io/esc) Research Track. [Report](https://github.com/ChanBong/csaw-esc-2022)
     - _October_ : Qualified for [CSAW](https://www.csaw.io/esc) World Finals
     - _June_ : Joined Bosch as a summer intern
     - _May_ : Selected into the Data Science Group

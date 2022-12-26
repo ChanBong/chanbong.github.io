@@ -10,6 +10,11 @@ More often than not, I spend days filtering out useful/good content from the nea
 Inspired by a [stranger](https://kratzert.github.io/openlearning) I will try to document whatever I find useful.
 I will also try to add specific links that I have already studied in the past but may help any interested reader (or myself as lookup).
 
+## Compilers
+
+- [Making a LLVM Forntend](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
+- [Let's Build a Compiler by Jake Crenshaw](https://compilers.iecc.com/crenshaw/)
+
 ## Academics
 
 ### Spring 2022
